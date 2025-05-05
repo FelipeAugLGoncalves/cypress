@@ -16,17 +16,14 @@ Este repositório contém testes automatizados end-to-end utilizando [Cypress](h
 
 1. Instale as dependências:
    ```
-   bash
    npm install
 
 2. Execute o Cypress em modo interativo:
    ```
-   bash
    npm run cypress:open
 
 3. Ou execute em modo headless (terminal):
    ```
-   bash
    npm test
 
 📋 Notas importantes
@@ -47,7 +44,6 @@ Estrutura modular com dois arquivos de teste separados
 
 📁 Estrutura de pastas
 ```
-bash
 Copiar
 Editar
 /cypress
